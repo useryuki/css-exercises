@@ -32,7 +32,7 @@ button {
 In your solution you probably put it right inside the existing selectors,
 which _is_ the best practice.
 
-We separated it out here to make it extra clear what has changed. */
+We separated it out here to make it extra clear what has changed. */qq
 
 .card {
   padding: 8px;
